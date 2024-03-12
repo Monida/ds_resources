@@ -10,16 +10,16 @@
 
 ## Quick and easy
 # Intermediate topics
-1. [Learn Python with Socratica](https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&ab_channel=Socratica) by Socratica
+1. [Learn Python with Socratica](https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&ab_channel=Socratica) by [Socratica](https://www.youtube.com/@Socratica)
 
 If you want to learn or refresh Python concepts in under 10 minutes, these viedeos explain most of the Python concepts you'll find in Beginner to Intermediate projects.  
 
 # Advanced Topics
-1. [Expert Python Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP) by Tech With Tim
+1. [Expert Python Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP) by [Tech With Tim](https://www.youtube.com/@TechWithTim)
 
-2. [Advanced Python - Complete Course](https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2) by Patrick Loeber
+2. [Advanced Python - Complete Course](https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2) by [Patrick Loeber](https://www.youtube.com/@patloeber)
 
-3. [Python Advanced Tutorials](https://www.youtube.com/playlist?list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc) by NeuralNine
+3. [Python Advanced Tutorials](https://www.youtube.com/playlist?list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc) by [NeuralNine](https://www.youtube.com/@NeuralNine)
 
 
 All these videos range from 10 to 25 minutes and explain concepts that you will most likely need in full software development projects/jobs. 
