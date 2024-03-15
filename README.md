@@ -13,5 +13,7 @@ These are resources I find myself going back to over and over again when I need 
 
 I like them because they help you to truly understand what's going, and they always go to the point.
 
+For every category I have links for **Long courses** for when you have time and really want to understand the concepts; and **Quick and easy** for when you don't have time and you just want to learn it, well... quick an easy. 
+
 I hope these resources help you as much as they have helped me. 
 
