@@ -19,8 +19,8 @@ Almost every imaginable software tool explained in 100 seconds, for when you onl
 
 Take away tips to remember while writing tests. 
 
-3. [Visualizing-git](git-school.github.io/visualizing-git) by 
+3. [Visualizing-git](git-school.github.io/visualizing-git)
 
 A super cool tool to visualize Git commands and what happens to the different branches. 
 
-And here is [the original repository](https://github.com/git-school/visualizing-git)
+And here is [the original repository](https://github.com/git-school/visualizing-git).
